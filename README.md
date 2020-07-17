@@ -1,4 +1,4 @@
-!(/git-banner.jpg)
+![Banner](/git-banner.jpg)
 
 ### Hi there human 👋 I’m Robin. I love design and the internet!
  
