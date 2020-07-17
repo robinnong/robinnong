@@ -1,4 +1,4 @@
-![Banner](https://github.com/robinnong/robinnong/blob/master/git-banner.jpg)
+![Banner](https://github.com/robinnong/robinnong/blob/master/git_banner.jpg)
 
 ### Hi there human 👋 I’m Robin, front-end developer passionate about design and the internet
  
