@@ -4,7 +4,7 @@
  
 - 👩‍💻 In 2019, I chose to transition from a career in Architecture to tech.
 - 🔍 On the hunt for my first developer role.
-- 🌱 Currently learning <b>Vue, React and Gatsby</b>. Check out my recently updated repos for my progress.
+- 🌱 Currently learning <b>Vue, React and Gatsby+GraphQL</b>. Check out my recently updated repos for my progress.
 - 😄 Pronouns: She/her
 - ⚡ Outside of coding, I enjoy photography, painting, running and climbing 🧗‍♀️.  
 
