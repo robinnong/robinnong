@@ -9,3 +9,5 @@
 - ⚡ Outside of coding, I enjoy photography, painting, running and climbing 🧗‍♀️.  
 
 Personal Portfolio ✨<a href="https://www.robinnong.com/">HERE</a>✨
+
+New to GitHub and want to know how to format your personal README.md file like this? Read Github's instructions [here](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme) and the [Markdown Guide](https://www.markdownguide.org/).
