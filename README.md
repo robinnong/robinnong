@@ -1,11 +1,9 @@
 ![Banner](https://github.com/robinnong/robinnong/blob/master/git_banner.jpg)
 
-### Hi there human 👋 I’m Robin, front-end developer passionate about design and the internet
+### Hi 👋 I’m Robin, a front-end developer passionate about design and the internet
  
 - 👩‍💻 In 2019, I chose to transition from a career in Architecture to tech.
-- 🌱 Currently learning <b>Vue, React and Gatsby+GraphQL</b>. Check out my recently updated repos for my progress.
-- ⚡ Outside of coding, I enjoy photography, painting, running and climbing 🧗‍♀️.  
+- 🌱 Currently specializing in <b>React, Redux and TypeScript</b>.
+- ⚡ Outside of coding, I enjoy photography, figure skating and hip-hop dance.  
 
 Personal Portfolio ✨<a href="https://www.robinnong.com/">HERE</a>✨
-
-New to GitHub and want to know how to format your personal README.md file like this? Read Github's instructions [here](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme) and the [Markdown Guide](https://www.markdownguide.org/).
